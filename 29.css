@@ -8,7 +8,14 @@ html {
   *, *:before, *:after {
     box-sizing: inherit;
   }
-  
+   h2 {
+    text-align: center;
+    font-size: large;
+    font-family: sans-serif;
+    color: red;
+    font-weight: bold;
+   }
+
   body {
     margin: 0;
     text-align: center;
